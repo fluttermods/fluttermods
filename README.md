@@ -44,4 +44,4 @@ Credit to KBH Games and HDBoye. I DO NOT OWN ANY OF THESE, IF YOU WANT THEM TAKE
 
 [Scary Midnight Sneakin'](https://hdboye.github.io/FnfModAttempt/scary) Makes Week 1 spooky
 
-[DDLC Monika](https://hdboye.github.io/FnfModAttempt/monika) 
+[DDLC Monika](https://hdboye.github.io/FnfModAttempt/monika) Changes the song of Senpai and turns Senpai into Monika
