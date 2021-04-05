@@ -62,6 +62,18 @@ Credit to Sniper_GamingWasTaken, Glacier, and HDBoye. I DO NOT OWN ANY OF THESE,
 
 [Friday Night Vibin'](https://hdboye.github.io/FnfModAttempt2/vibin/)
 
+[You're a douchebag](https://hdboye.github.io/FnfModAttempt/douchebag)
+
+[Sans over Skid n Pump](https://hdboye.github.io/FnfModAttempt/sansvs)
+
+[Papyrus Mod](https://hdboye.github.io/FnfModAttempt/papyrus)
+
+[Tetris Beatbox](https://hdboye.github.io/FnfModAttempt/tetris)
+
+[Nagito over Pico](https://hdboye.github.io/FnfModAttempt/nagito)
+
+
+
 original makers' gamebanana links so i don't get them taken down
 
 [HATSUNE MIKU](https://gamebanana.com/gamefiles/17106)
@@ -123,3 +135,13 @@ original makers' gamebanana links so i don't get them taken down
 [UGH HIGH EFFORT](https://gamebanana.com/gamefiles/17077)
 
 [FRIDAY NIGHT VIBIN](https://gamebanana.com/maps/214669)
+
+[SANS OVER SKID AND PUMP](https://gamebanana.com/skins/184025)
+
+[PAPYRUS MOD](https://gamebanana.com/skins/184993)
+
+[NAGITO OVER PICO](https://gamebanana.com/skins/184963)
+
+[YOU'RE A DOUCHEBOG](https://gamebanana.com/gamefiles/14569
+
+[TERIS BEATBOX](https://gamebanana.com/gamefiles/14257)
