@@ -60,6 +60,8 @@ Credit to Sniper_GamingWasTaken, Glacier, and HDBoye. I DO NOT OWN ANY OF THESE,
 
 [Ugh High Effort](https://glacierr.itch.io/ugh)
 
+[Friday Night Vibin'](https://hdboye.github.io/FnfModAttempt2/vibin/)
+
 original makers' gamebanana links so i don't get them taken down
 
 [HATSUNE MIKU](https://gamebanana.com/gamefiles/17106)
@@ -119,3 +121,5 @@ original makers' gamebanana links so i don't get them taken down
 [XE WEEK](https://gamebanana.com/gamefiles/13990)
 
 [UGH HIGH EFFORT](https://gamebanana.com/gamefiles/17077)
+
+[FRIDAY NIGHT VIBIN](https://gamebanana.com/maps/214669)
