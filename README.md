@@ -86,6 +86,16 @@ Credit to Sniper_GamingWasTaken, Glacier, and HDBoye. I DO NOT OWN ANY OF THESE,
 
 [The X Event Demo](https://lemon-demon-monster.itch.io/the-x-event-demo)
 
+[Everywhere at the end of Funk](https://hdboye.github.io/FnfModAttempt2/end)
+
+[BBPanzu's Hatsune Miku](https://hdboye.github.io/FnfModAttempt2/bbmiku)
+
+[Sunday](https://hdboye.github.io/FnfModAttempt2/sunday)
+
+[Friday Night Funkin but bad](https://hdboye.github.io/FnfModAttempt2/bad)
+
+
+
 original makers' gamebanana links so i don't get them taken down
 
 [HATSUNE MIKU](https://gamebanana.com/gamefiles/17106)
@@ -169,3 +179,9 @@ original makers' gamebanana links so i don't get them taken down
 [THE DISAPPEARANCE OF HATSUNE MIKU](https://gamebanana.com/gamefiles/14164)
 
 [EX GIRLFRIEND](https://gamebanana.com/skins/186464)
+
+[FRIDAY NIGHT FUNKIN BUT BAD](https://gamebanana.com/gamefiles/15933)
+
+[SUNDAY](https://gamebanana.com/skins/184601)
+
+[BBPANZU'S HATSUNE MIKU](https://gamebanana.com/skins/184101)
