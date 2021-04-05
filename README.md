@@ -12,7 +12,7 @@ Credit to KBH Games and HDBoye. I DO NOT OWN ANY OF THESE, IF YOU WANT THEM TAKE
 
 [Mid-Fight Masses](https://kbhgames.com/game/friday-night-funkin-sarventes-mid-fight-masses) 
 
-[Hatsune Miku](https://hdboye.github.io/FnfModAttempt/miku) Replaces Week 1
+[Hatsune Miku](https://sniper-gamingwastaken.itch.io/friday-night-funkin-miku-mod-kade) Replaces Week 1
 
 [HELLBEATS](https://hdboye.github.io/FnfModAttempt/hellbeats) Affects all songs
 
@@ -47,3 +47,50 @@ Credit to KBH Games and HDBoye. I DO NOT OWN ANY OF THESE, IF YOU WANT THEM TAKE
 [Scary Midnight Sneakin'](https://hdboye.github.io/FnfModAttempt/scary) Makes Week 1 spooky
 
 [DDLC Monika](https://hdboye.github.io/FnfModAttempt/monika) Changes the song of Senpai and turns Senpai into Monika
+
+
+original makers' gamebanana links so i don't get them taken down
+
+[HATSUNE MIKU](https://gamebanana.com/gamefiles/17106)
+
+[V.S. WHITTY](https://gamebanana.com/gamefiles/14457)
+
+[TRICKY](https://gamebanana.com/gamefiles/17466)
+
+[B-SIDES REMIXES](https://gamebanana.com/gamefiles/13686)
+
+[NEO MOD](https://gamebanana.com/gamefiles/15172)
+
+[MID-FIGHT MASSES](https://gamebanana.com/gamefiles/17646)
+
+[HELLBEATS](https://gamebanana.com/gamefiles/13979)
+
+[V.S. HEX](https://gamebanana.com/gamefiles/14942)
+
+[AMONG DRIP](https://gamebanana.com/gamefiles/13904)
+
+[UNDERTALE MODPACK](https://gamebanana.com/skins/184492)
+
+[MINUS MOD](https://gamebanana.com/skins/186737)
+
+[B3 REMIXED](https://gamebanana.com/gamefiles/13933)
+
+[BAKA MITAI](https://gamebanana.com/gamefiles/13826)
+
+[GF AND BF SWAP](https://gamebanana.com/skins/185192)
+
+[ISABELLE MOD](https://gamebanana.com/skins/190056)
+
+[CAROL MOD](https://gamebanana.com/gamefiles/15276)
+
+[ZARDY FOOLHARDY](https://gamebanana.com/gamefiles/17880)
+
+[C-SIDES](https://gamebanana.com/gamefiles/13928)
+
+[UPSIDES](https://gamebanana.com/gamefiles/14943)
+
+[DUO PACK](https://gamebanana.com/wips/53066)
+
+[SANS AS BF](https://gamebanana.com/skins/184025)
+
+[DDLC MONIKA OVER SENPAI](https://gamebanana.com/gamefiles/14832)
