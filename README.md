@@ -1,16 +1,16 @@
 ### This is a website to play some of your favorite Friday Night Funkin mods! Click one of the highlighted links to play.
 
-Credit to KBH Games and HDBoye. I DO NOT OWN ANY OF THESE, IF YOU WANT THEM TAKEN DOWN DM ME ON DISCORD flutter#3151
+Credit to Sniper_GamingWasTaken and HDBoye. I DO NOT OWN ANY OF THESE, IF YOU WANT THEM TAKEN DOWN DM ME ON DISCORD flutter#3151
 
-[V.S. Whitty](https://kbhgames.com/game/friday-night-funkin-v-s-whitty-full-week) 
+[V.S. Whitty](https://sniper-gamingwastaken.itch.io/friday-night-funkin-vs-whitty-full-week-optimized-kade-engine) 
 
 [Tricky Mod](https://kbhgames.com/game/friday-night-funkin-the-tricky-mod) 
 
-[B-Sides Remixes](https://hdboye.github.io/FnfModAttempt/bside)
+[B-Sides Remixes](https://sniper-gamingwastaken.itch.io/friday-night-funkin-b-sides-optimized-kade-engine-ver)
 
-[Neo Mod](https://kbhgames.com/game/friday-night-funkin-neo) 
+[Neo Mod](https://sniper-gamingwastaken.itch.io/friday-night-funkin-neo-optimized-ke) 
 
-[Mid-Fight Masses](https://kbhgames.com/game/friday-night-funkin-sarventes-mid-fight-masses) 
+[Mid-Fight Masses](https://sniper-gamingwastaken.itch.io/friday-night-funkin-sarventes-mid-fight-masses-gospel-port-optomized-kade-engine) 
 
 [Hatsune Miku](https://sniper-gamingwastaken.itch.io/friday-night-funkin-miku-mod-kade) Replaces Week 1
 
@@ -48,6 +48,15 @@ Credit to KBH Games and HDBoye. I DO NOT OWN ANY OF THESE, IF YOU WANT THEM TAKE
 
 [DDLC Monika](https://hdboye.github.io/FnfModAttempt/monika) Changes the song of Senpai and turns Senpai into Monika
 
+[I ain't got no iPhone](https://sniper-gamingwastaken.itch.io/friday-night-funkin-but-monster-has-no-iphone)
+
+[FNF CG5 Edition](https://sniper-gamingwastaken.itch.io/friday-night-funkin-cg5-edition-full-week-optimized-kade-engine)
+
+[Pumpkin Pie Mod](https://sniper-gamingwastaken.itch.io/friday-night-funkin-pumkin-pie-custom-song)
+
+[V.S. Annie](https://sniper-gamingwastaken.itch.io/friday-night-funkin-annie-custom-week-optomized-kade-engine-version)
+
+[XE Mod](https://sniper-gamingwastaken.itch.io/friday-night-funkin-custom-week-xe-optimized)
 
 original makers' gamebanana links so i don't get them taken down
 
@@ -96,3 +105,13 @@ original makers' gamebanana links so i don't get them taken down
 [DDLC MONIKA OVER SENPAI](https://gamebanana.com/gamefiles/14832)
 
 [SCARY MIDNIGHT SNEAKIN](https://gamebanana.com/gamefiles/14832)
+
+[CG5 MOD](https://gamebanana.com/gamefiles/14966)
+
+[I AINT GOT NO IPHONE](https://gamebanana.com/gamefiles/18796)
+
+[PUMPKIN PIE MOD](https://gamebanana.com/gamefiles/15416)
+
+[V.S. ANNIE](https://gamebanana.com/gamefiles/15994)
+
+[XE WEEK](https://gamebanana.com/gamefiles/13990)
