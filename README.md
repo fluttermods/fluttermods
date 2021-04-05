@@ -72,7 +72,19 @@ Credit to Sniper_GamingWasTaken, Glacier, and HDBoye. I DO NOT OWN ANY OF THESE,
 
 [Nagito over Pico](https://hdboye.github.io/FnfModAttempt/nagito)
 
+[Rose-Criminal Mod](https://sniper-gamingwastaken.itch.io/friday-night-funkin-rose-criminal-port)
 
+[Roblox Noob over Pico](https://hdboye.github.io/FnfModAttempt/noob)
+
+[SteamAdem's Mod](https://hdboye.github.io/FnfModAttempt/peter)
+
+[ENA over BF](https://hdboye.github.io/FnfModAttempt/ena)
+
+[Ex Girlfriend](https://imakegoodsuf2.itch.io/ex-girlfriend-kade-engine)
+
+[The disappearance of Hatsune Miku](https://hatsunemiku101.itch.io/the-disappearance-of-hatsune-miku)
+
+[The X Event Demo](https://lemon-demon-monster.itch.io/the-x-event-demo)
 
 original makers' gamebanana links so i don't get them taken down
 
@@ -145,3 +157,15 @@ original makers' gamebanana links so i don't get them taken down
 [YOU'RE A DOUCHEBOG](https://gamebanana.com/gamefiles/14569
 
 [TERIS BEATBOX](https://gamebanana.com/gamefiles/14257)
+
+[THE X EVENT](https://gamebanana.com/gamefiles/18152)
+
+[ROBLOX NOOB OVER PICO](https://gamebanana.com/skins/189645)
+
+[ROSE-CRIMINAL](https://gamebanana.com/gamefiles/14837)
+
+[ENA OVER BF](https://gamebanana.com/skins/185793)
+
+[THE DISAPPEARANCE OF HATSUNE MIKU](https://gamebanana.com/gamefiles/14164)
+
+[EX GIRLFRIEND](https://gamebanana.com/skins/186464)
