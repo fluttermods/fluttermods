@@ -58,6 +58,8 @@ Credit to Sniper_GamingWasTaken and HDBoye. I DO NOT OWN ANY OF THESE, IF YOU WA
 
 [XE Mod](https://sniper-gamingwastaken.itch.io/friday-night-funkin-custom-week-xe-optimized)
 
+[Ugh High Effort](https://glacierr.itch.io/ugh)
+
 original makers' gamebanana links so i don't get them taken down
 
 [HATSUNE MIKU](https://gamebanana.com/gamefiles/17106)
@@ -115,3 +117,5 @@ original makers' gamebanana links so i don't get them taken down
 [V.S. ANNIE](https://gamebanana.com/gamefiles/15994)
 
 [XE WEEK](https://gamebanana.com/gamefiles/13990)
+
+[UGH HIGH EFFORT](https://gamebanana.com/gamefiles/17077)
