@@ -154,7 +154,7 @@ original makers' gamebanana links so i don't get them taken down
 
 [NAGITO OVER PICO](https://gamebanana.com/skins/184963)
 
-[YOU'RE A DOUCHEBOG](https://gamebanana.com/gamefiles/14569
+[YOU'RE A DOUCHEBAG](https://gamebanana.com/gamefiles/14569)
 
 [TERIS BEATBOX](https://gamebanana.com/gamefiles/14257)
 
