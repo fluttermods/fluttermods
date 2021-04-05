@@ -94,3 +94,5 @@ original makers' gamebanana links so i don't get them taken down
 [SANS AS BF](https://gamebanana.com/skins/184025)
 
 [DDLC MONIKA OVER SENPAI](https://gamebanana.com/gamefiles/14832)
+
+[SCARY MIDNIGHT SNEAKIN](https://gamebanana.com/gamefiles/14832)
