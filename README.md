@@ -34,6 +34,8 @@ Credit to KBH Games and HDBoye. I DO NOT OWN ANY OF THESE, IF YOU WANT THEM TAKE
 
 [Carol Mod](https://hdboye.github.io/FnfModAttempt/carol) Replaces Week 3
 
+[Zardy FoolHardy](https://sniper-gamingwastaken.itch.io/friday-night-funkin-vs-zardy-full-week-optimized-kade-engine)
+
 [C-Sides](https://hdboye.github.io/FnfModAttempt/cside) Week 4 is remixed
 
 [Upside Mod](https://hdboye.github.io/FnfModAttempt/upside) Tutorial, Week 1, Week 2, and Week 3 are the only remixed ones
