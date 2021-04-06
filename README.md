@@ -28,9 +28,19 @@ oh yeah XENTIDOE taught me how to make a mod menu, so credits to him
 
 [Friday Night Funkin but bad](https://hdboye.github.io/FnfModAttempt2/bad) Credit to HDBoye
 
-### MODS
+### REMIX MODS
 
 [Neo Mod](https://peppymods.itch.io/neo?secret=TNWwnRNyKy9ofksuJ9tFQ0ZMn1I) Credit to Peppy 
+
+[B3 Remixes](https://hdboye.github.io/FnfModAttempt/bthree) Credit to HDBoye
+
+[C-Sides](https://hdboye.github.io/FnfModAttempt/cside) Credit to HDBoye
+
+[Upside Mod](https://hdboye.github.io/FnfModAttempt/upside) Credit to HDBoye
+
+### CUSTOM SONGS
+
+[Everywhere at the end of Funk](https://hdboye.github.io/FnfModAttempt2/end) Credit to HDBoye
 
 [Carol Mod](https://hdboye.github.io/FnfModAttempt/carol) Credit to HDBoye
 
@@ -38,27 +48,11 @@ oh yeah XENTIDOE taught me how to make a mod menu, so credits to him
 
 [Hatsune Miku](https://sniper-gamingwastaken.itch.io/friday-night-funkin-miku-mod-kade) Credit to Sniper-GamingWasTaken
 
-[HELLBEATS](https://hdboye.github.io/FnfModAttempt/hellbeats) Credit to HDBoye
-
 [Among Drip](https://hdboye.github.io/FnfModAttempt/drip) Credit to HDBoye
-
-[Undertale Modpack](https://hdboye.github.io/FnfModAttempt/undertale) Credit to HDBoye
-
-[B3 Remixes](https://hdboye.github.io/FnfModAttempt/bthree) Credit to HDBoye
 
 [Baka Mitai](https://hdboye.github.io/FnfModAttempt/mitai) Credit to HDBoye
 
-[GF and BF switch](https://hdboye.github.io/FnfModAttempt/switch) Credit to HDBoye
-
-[Isabelle Mod](https://hdboye.github.io/FnfModAttempt/isabelle) Credit to HDBoye
-
-[C-Sides](https://hdboye.github.io/FnfModAttempt/cside) Credit to HDBoye
-
-[Upside Mod](https://hdboye.github.io/FnfModAttempt/upside) Credit to HDBoye
-
 [Duo](https://hdboye.github.io/FnfModAttempt/duo) Credit to HDBoye
-
-[Sans as BF](https://hdboye.github.io/FnfModAttempt/sans) Credit to HDBoye
 
 [Scary Midnight Sneakin'](https://hdboye.github.io/FnfModAttempt/scary) Credit to HDBoye
 
@@ -76,27 +70,13 @@ oh yeah XENTIDOE taught me how to make a mod menu, so credits to him
 
 [Ugh High Effort](https://glacierr.itch.io/ugh) Credit to Glacier
 
-[Friday Night Vibin'](https://hdboye.github.io/FnfModAttempt2/vibin/) Credit to HDBoye
-
 [You're a douchebag](https://hdboye.github.io/FnfModAttempt/douchebag) Credit to HDBoye
-
-[Sans over Skid n Pump](https://hdboye.github.io/FnfModAttempt/sansvs) Credit to HDBoye
 
 [Papyrus Mod](https://hdboye.github.io/FnfModAttempt/papyrus) Credit to HDBoye
 
 [Tetris Beatbox](https://hdboye.github.io/FnfModAttempt/tetris) Credit to HDBoye
 
-[Nagito over Pico](https://hdboye.github.io/FnfModAttempt/nagito) Credit to HDBoye
-
 [Rose-Criminal Mod](https://sniper-gamingwastaken.itch.io/friday-night-funkin-rose-criminal-port) Credit to Sniper-GamingWasTaken
-
-[Roblox Noob over Pico](https://hdboye.github.io/FnfModAttempt/noob) Credit to HDBoye
-
-[SteamAdem's Mod](https://hdboye.github.io/FnfModAttempt/peter) Credit to HDBoye
-
-[ENA over BF](https://hdboye.github.io/FnfModAttempt/ena) Credit to HDBoye
-
-[Ex Girlfriend](https://imakegoodsuf2.itch.io/ex-girlfriend-kade-engine) Credit to IMakeGoodSuf2
 
 [The disappearance of Hatsune Miku](https://hatsunemiku101.itch.io/the-disappearance-of-hatsune-miku) Credit to HatsuneMiku101
 
@@ -108,13 +88,47 @@ oh yeah XENTIDOE taught me how to make a mod menu, so credits to him
 
 [HoloNight Funkin](https://glacierr.itch.io/holonight) Credit to Glacier and Peppy
 
-[Ballistic Fun Sized Whitty](https://peppymods.itch.io/whitty-ballistic-fun-sized) Credit to Peppy
-
 [X Chara](https://elpeppywall.github.io/Mods/Xchara/) Credit to Peppy (replaces spookeez) Credit to Peppy
 
-[Fun Sized Whitty](https://peppymods.itch.io/fun-sized-whitty?secret=kKq7DWa9gveAbf2f1zv5flRiHY) Creddit to Peppy
-
 [Your New Boyfriend](https://glacierr.itch.io/simpbur) Credit to Glacier
+
+### SKINS
+
+[GF and BF switch](https://hdboye.github.io/FnfModAttempt/switch) Credit to HDBoye
+
+[Undertale Modpack](https://hdboye.github.io/FnfModAttempt/undertale) Credit to HDBoye
+
+[Minus Mod](https://hdboye.github.io/FnfModAttempt/minus) Credit to HDBoye
+
+[Ballistic Fun Sized Whitty](https://peppymods.itch.io/whitty-ballistic-fun-sized) Credit to Peppy
+
+[ENA over BF](https://hdboye.github.io/FnfModAttempt/ena) Credit to HDBoye
+
+[SteamAdem's Mod](https://hdboye.github.io/FnfModAttempt/peter) Credit to HDBoye
+
+[Fun Sized Whitty](https://peppymods.itch.io/fun-sized-whitty?secret=kKq7DWa9gveAbf2f1zv5flRiHY) Credit to Peppy
+
+[Nagito over Pico](https://hdboye.github.io/FnfModAttempt/nagito) Credit to HDBoye
+
+[Roblox Noob over Pico](https://hdboye.github.io/FnfModAttempt/noob) Credit to HDBoye
+
+[Sans over Skid n Pump](https://hdboye.github.io/FnfModAttempt/sansvs) Credit to HDBoye
+
+[Friday Night Vibin'](https://hdboye.github.io/FnfModAttempt2/vibin/) Credit to HDBoye
+
+[Sans as BF](https://hdboye.github.io/FnfModAttempt/sans) Credit to HDBoye
+
+[Isabelle Mod](https://hdboye.github.io/FnfModAttempt/isabelle) Credit to HDBoye
+
+
+### DIFFICULT MODS
+
+[HELLBEATS](https://hdboye.github.io/FnfModAttempt/hellbeats) Credit to HDBoye
+
+[V.S. Whitty](https://sniper-gamingwastaken.itch.io/friday-night-funkin-vs-whitty-full-week-optimized-kade-engine) Credit to Sniper-GamingWasTaken
+
+[V.S. Tricky](https://elpeppywall.github.io/Mods/Tricky) Credit to Peppy
+
 
 ## ORIGINAL MOD LINKS
 
