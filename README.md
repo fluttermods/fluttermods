@@ -6,7 +6,7 @@ oh yeah XENTIDOE taught me how to make a mod menu, so credits to him
 
 ### MOST POPULAR MODS
 
-
+----------------------
 
 [Kade Engine](https://untitledoutput.itch.io/friday-night-funkin-kade-engine) Credit to Untitled Output
 
@@ -33,7 +33,7 @@ oh yeah XENTIDOE taught me how to make a mod menu, so credits to him
 ### REMIX MODS
 
 
-
+---------------
 [Neo Mod](https://peppymods.itch.io/neo?secret=TNWwnRNyKy9ofksuJ9tFQ0ZMn1I) Credit to Peppy 
 
 [B3 Remixes](https://hdboye.github.io/FnfModAttempt/bthree) Credit to HDBoye
@@ -43,6 +43,7 @@ oh yeah XENTIDOE taught me how to make a mod menu, so credits to him
 [Upside Mod](https://hdboye.github.io/FnfModAttempt/upside) Credit to HDBoye
 
 ### CUSTOM SONGS
+-------------------
 
 [Everywhere at the end of Funk](https://hdboye.github.io/FnfModAttempt2/end) Credit to HDBoye
 
@@ -98,7 +99,7 @@ oh yeah XENTIDOE taught me how to make a mod menu, so credits to him
 
 
 ### SKINS
-
+---------
 
 
 [GF and BF switch](https://hdboye.github.io/FnfModAttempt/switch) Credit to HDBoye
@@ -129,7 +130,7 @@ oh yeah XENTIDOE taught me how to make a mod menu, so credits to him
 
 
 ### DIFFICULT MODS
-
+------------------
 
 
 [HELLBEATS](https://hdboye.github.io/FnfModAttempt/hellbeats) Credit to HDBoye
@@ -140,7 +141,7 @@ oh yeah XENTIDOE taught me how to make a mod menu, so credits to him
 
 
 ## ORIGINAL MOD LINKS
-
+---------------------
 
 
 [HATSUNE MIKU](https://gamebanana.com/gamefiles/17106)
