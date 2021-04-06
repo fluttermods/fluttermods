@@ -106,6 +106,8 @@ Credit to Sniper_GamingWasTaken, Untitled Output, imakegoodsuf2, hatsunemiku101,
 
 [HoloNight Funkin](https://glacierr.itch.io/holonight) Credit to Glacier and Peppy
 
+[Fun Sized Whitty](https://peppymods.itch.io/whitty-ballistic-fun-sized) Credit to Peppy
+
 ## ORIGINAL MOD LINKS
 
 [HATSUNE MIKU](https://gamebanana.com/gamefiles/17106)
