@@ -1,16 +1,16 @@
 ### This is a website to play some of your favorite Friday Night Funkin mods! Click one of the highlighted links to play.
 
-Credit to Sniper_GamingWasTaken, Glacier, and HDBoye. I DO NOT OWN ANY OF THESE, IF YOU WANT THEM TAKEN DOWN DM ME ON DISCORD flutter#3151
+Credit to Sniper_GamingWasTaken, PeppyMods, Glacier, and HDBoye. I DO NOT OWN ANY OF THESE, IF YOU WANT THEM TAKEN DOWN DM ME ON DISCORD flutter#3151
 
 [V.S. Whitty](https://sniper-gamingwastaken.itch.io/friday-night-funkin-vs-whitty-full-week-optimized-kade-engine) 
 
-[Tricky Mod](https://kbhgames.com/game/friday-night-funkin-the-tricky-mod) 
+[V.S. Tricky](https://elpeppywall.github.io/Mods/Tricky) 
 
 [B-Sides Remixes](https://sniper-gamingwastaken.itch.io/friday-night-funkin-b-sides-optimized-kade-engine-ver)
 
 [Neo Mod](https://sniper-gamingwastaken.itch.io/friday-night-funkin-neo-optimized-ke) 
 
-[Mid-Fight Masses](https://sniper-gamingwastaken.itch.io/friday-night-funkin-sarventes-mid-fight-masses-gospel-port-optomized-kade-engine) 
+[Mid-Fight Masses](https://elpeppywall.github.io/Mods/Sarvente) 
 
 [Hatsune Miku](https://sniper-gamingwastaken.itch.io/friday-night-funkin-miku-mod-kade) Replaces Week 1
 
@@ -93,6 +93,8 @@ Credit to Sniper_GamingWasTaken, Glacier, and HDBoye. I DO NOT OWN ANY OF THESE,
 [Sunday](https://hdboye.github.io/FnfModAttempt2/sunday)
 
 [Friday Night Funkin but bad](https://hdboye.github.io/FnfModAttempt2/bad)
+
+[V.S. JTC](https://peppymods.itch.io/vs-jtc/download/DnXpsc2HncMqapf7j_jpwxvP5yzhBXFLOAr6FE26)
 
 
 
@@ -185,3 +187,5 @@ original makers' gamebanana links so i don't get them taken down
 [SUNDAY](https://gamebanana.com/skins/184601)
 
 [BBPANZU'S HATSUNE MIKU](https://gamebanana.com/skins/184101)
+
+[TRICKY](https://elpeppywall.github.io/Mods/Tricky)
