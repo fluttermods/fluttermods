@@ -96,7 +96,7 @@ Credit to Sniper_GamingWasTaken, PeppyMods, Glacier, and HDBoye. I DO NOT OWN AN
 
 [V.S. JTC](https://peppymods.itch.io/vs-jtc/download/DnXpsc2HncMqapf7j_jpwxvP5yzhBXFLOAr6FE26)
 
-
+[Eerie Mod](https://leather128.itch.io/fnf-eerie-mod-ss-mod)
 
 original makers' gamebanana links so i don't get them taken down
 
@@ -189,3 +189,5 @@ original makers' gamebanana links so i don't get them taken down
 [BBPANZU'S HATSUNE MIKU](https://gamebanana.com/skins/184101)
 
 [TRICKY](https://elpeppywall.github.io/Mods/Tricky)
+
+[EERIE](https://leather128.itch.io/fnf-eerie-mod-ss-mod)
