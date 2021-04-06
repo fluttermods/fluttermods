@@ -28,83 +28,85 @@ Credit to Sniper_GamingWasTaken, PeppyMods, Glacier, and HDBoye. I DO NOT OWN AN
 
 ### MODS
 
-[Neo Mod](https://sniper-gamingwastaken.itch.io/friday-night-funkin-neo-optimized-ke) 
+[Neo Mod](https://peppymods.itch.io/neo?secret=TNWwnRNyKy9ofksuJ9tFQ0ZMn1I) Credit to Peppy 
 
-[Carol Mod](https://hdboye.github.io/FnfModAttempt/carol) Replaces Week 3
+[Carol Mod](https://hdboye.github.io/FnfModAttempt/carol) Credit to HDBoye
 
-[Zardy FoolHardy](https://sniper-gamingwastaken.itch.io/friday-night-funkin-vs-zardy-full-week-optimized-kade-engine)
+[Zardy FoolHardy](https://sniper-gamingwastaken.itch.io/friday-night-funkin-vs-zardy-full-week-optimized-kade-engine) Credit to Sniper-GamingWasTaken
 
-[Hatsune Miku](https://sniper-gamingwastaken.itch.io/friday-night-funkin-miku-mod-kade) Replaces Week 1
+[Hatsune Miku](https://sniper-gamingwastaken.itch.io/friday-night-funkin-miku-mod-kade) Credit to Sniper-GamingWasTaken
 
-[HELLBEATS](https://hdboye.github.io/FnfModAttempt/hellbeats) Affects all songs
+[HELLBEATS](https://hdboye.github.io/FnfModAttempt/hellbeats) Credit to HDBoye
 
-[Among Drip](https://hdboye.github.io/FnfModAttempt/drip) Affects Fresh
+[Among Drip](https://hdboye.github.io/FnfModAttempt/drip) Credit to HDBoye
 
-[Undertale Modpack](https://hdboye.github.io/FnfModAttempt/undertale) Is just a skin for Week 6
+[Undertale Modpack](https://hdboye.github.io/FnfModAttempt/undertale) Credit to HDBoye
 
-[B3 Remixes](https://hdboye.github.io/FnfModAttempt/bthree) Remixes Week 1, South, Blammed, Week 4, Week 5, and Week 6.
+[B3 Remixes](https://hdboye.github.io/FnfModAttempt/bthree) Credit to HDBoye
 
-[Baka Mitai](https://hdboye.github.io/FnfModAttempt/mitai) Replaces Fresh
+[Baka Mitai](https://hdboye.github.io/FnfModAttempt/mitai) Credit to HDBoye
 
-[GF and BF switch](https://hdboye.github.io/FnfModAttempt/switch) A skin
+[GF and BF switch](https://hdboye.github.io/FnfModAttempt/switch) Credit to HDBoye
 
-[Isabelle Mod](https://hdboye.github.io/FnfModAttempt/isabelle) A skin
+[Isabelle Mod](https://hdboye.github.io/FnfModAttempt/isabelle) Credit to HDBoye
 
-[C-Sides](https://hdboye.github.io/FnfModAttempt/cside) Week 4 is remixed
+[C-Sides](https://hdboye.github.io/FnfModAttempt/cside) Credit to HDBoye
 
-[Upside Mod](https://hdboye.github.io/FnfModAttempt/upside) Tutorial, Week 1, Week 2, and Week 3 are the only remixed ones
+[Upside Mod](https://hdboye.github.io/FnfModAttempt/upside) Credit to HDBoye
 
-[Duo](https://hdboye.github.io/FnfModAttempt/duo) Makes you sing in harmony with the opponent
+[Duo](https://hdboye.github.io/FnfModAttempt/duo) Credit to HDBoye
 
-[Sans as BF](https://hdboye.github.io/FnfModAttempt/sans) Well it's a skin that makes you Sans
+[Sans as BF](https://hdboye.github.io/FnfModAttempt/sans) Credit to HDBoye
 
-[Scary Midnight Sneakin'](https://hdboye.github.io/FnfModAttempt/scary) Makes Week 1 spooky
+[Scary Midnight Sneakin'](https://hdboye.github.io/FnfModAttempt/scary) Credit to HDBoye
 
-[DDLC Monika](https://hdboye.github.io/FnfModAttempt/monika) Changes the song of Senpai and turns Senpai into Monika
+[DDLC Monika](https://hdboye.github.io/FnfModAttempt/monika) Credit to HDBoye
 
-[I ain't got no iPhone](https://sniper-gamingwastaken.itch.io/friday-night-funkin-but-monster-has-no-iphone)
+[I ain't got no iPhone](https://sniper-gamingwastaken.itch.io/friday-night-funkin-but-monster-has-no-iphone) Credit to Sniper-GamingWasTaken
 
-[FNF CG5 Edition](https://sniper-gamingwastaken.itch.io/friday-night-funkin-cg5-edition-full-week-optimized-kade-engine)
+[FNF CG5 Edition](https://sniper-gamingwastaken.itch.io/friday-night-funkin-cg5-edition-full-week-optimized-kade-engine) Credit to Sniper-GamingWasTaken
 
-[Pumpkin Pie Mod](https://sniper-gamingwastaken.itch.io/friday-night-funkin-pumkin-pie-custom-song)
+[Pumpkin Pie Mod](https://sniper-gamingwastaken.itch.io/friday-night-funkin-pumkin-pie-custom-song) Credit to Sniper-GamingWasTaken
 
-[V.S. Annie](https://sniper-gamingwastaken.itch.io/friday-night-funkin-annie-custom-week-optomized-kade-engine-version)
+[V.S. Annie](https://sniper-gamingwastaken.itch.io/friday-night-funkin-annie-custom-week-optomized-kade-engine-version) Credit to Sniper-GamingWasTaken
 
-[XE Mod](https://sniper-gamingwastaken.itch.io/friday-night-funkin-custom-week-xe-optimized)
+[XE Mod](https://sniper-gamingwastaken.itch.io/friday-night-funkin-custom-week-xe-optimized) Credit to Sniper-GamingWasTaken
 
-[Ugh High Effort](https://glacierr.itch.io/ugh)
+[Ugh High Effort](https://glacierr.itch.io/ugh) Credit to Glacier
 
-[Friday Night Vibin'](https://hdboye.github.io/FnfModAttempt2/vibin/)
+[Friday Night Vibin'](https://hdboye.github.io/FnfModAttempt2/vibin/) Credit to HDBoye
 
-[You're a douchebag](https://hdboye.github.io/FnfModAttempt/douchebag)
+[You're a douchebag](https://hdboye.github.io/FnfModAttempt/douchebag) Credit to HDBoye
 
-[Sans over Skid n Pump](https://hdboye.github.io/FnfModAttempt/sansvs)
+[Sans over Skid n Pump](https://hdboye.github.io/FnfModAttempt/sansvs) Credit to HDBoye
 
-[Papyrus Mod](https://hdboye.github.io/FnfModAttempt/papyrus)
+[Papyrus Mod](https://hdboye.github.io/FnfModAttempt/papyrus) Credit to HDBoye
 
-[Tetris Beatbox](https://hdboye.github.io/FnfModAttempt/tetris)
+[Tetris Beatbox](https://hdboye.github.io/FnfModAttempt/tetris) Credit to HDBoye
 
-[Nagito over Pico](https://hdboye.github.io/FnfModAttempt/nagito)
+[Nagito over Pico](https://hdboye.github.io/FnfModAttempt/nagito) Credit to HDBoye
 
-[Rose-Criminal Mod](https://sniper-gamingwastaken.itch.io/friday-night-funkin-rose-criminal-port)
+[Rose-Criminal Mod](https://sniper-gamingwastaken.itch.io/friday-night-funkin-rose-criminal-port) Credit to Sniper-GamingWasTaken
 
-[Roblox Noob over Pico](https://hdboye.github.io/FnfModAttempt/noob)
+[Roblox Noob over Pico](https://hdboye.github.io/FnfModAttempt/noob) Credit to HDBoye
 
-[SteamAdem's Mod](https://hdboye.github.io/FnfModAttempt/peter)
+[SteamAdem's Mod](https://hdboye.github.io/FnfModAttempt/peter) Credit to HDBoye
 
-[ENA over BF](https://hdboye.github.io/FnfModAttempt/ena)
+[ENA over BF](https://hdboye.github.io/FnfModAttempt/ena) Credit to HDBoye
 
-[Ex Girlfriend](https://imakegoodsuf2.itch.io/ex-girlfriend-kade-engine)
+[Ex Girlfriend](https://imakegoodsuf2.itch.io/ex-girlfriend-kade-engine) Credit to IMakeGoodSuf2
 
-[The disappearance of Hatsune Miku](https://hatsunemiku101.itch.io/the-disappearance-of-hatsune-miku)
+[The disappearance of Hatsune Miku](https://hatsunemiku101.itch.io/the-disappearance-of-hatsune-miku) Credit to HatsuneMiku101
 
-[Sunday](https://hdboye.github.io/FnfModAttempt2/sunday)
+[Sunday](https://hdboye.github.io/FnfModAttempt2/sunday) Credit to HDBoye
 
-[V.S. JTC](https://peppymods.itch.io/vs-jtc/download/DnXpsc2HncMqapf7j_jpwxvP5yzhBXFLOAr6FE26)
+[V.S. JTC](https://peppymods.itch.io/vs-jtc/download/DnXpsc2HncMqapf7j_jpwxvP5yzhBXFLOAr6FE26) Credit to Peppy
 
-[Eerie Mod](https://leather128.itch.io/fnf-eerie-mod-ss-mod)
+[Eerie Mod](https://leather128.itch.io/fnf-eerie-mod-ss-mod) Credit to Leather128
 
-original makers' gamebanana links so i don't get them taken down
+[HoloNight Funkin](https://glacierr.itch.io/holonight) Credit to Glacier and Peppy
+
+## ORIGINAL MOD LINKS
 
 [HATSUNE MIKU](https://gamebanana.com/gamefiles/17106)
 
