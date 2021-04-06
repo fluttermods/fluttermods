@@ -1,6 +1,6 @@
 ### This is a website to play some of your favorite Friday Night Funkin mods! Click one of the highlighted links to play.
 
-Credit to Sniper_GamingWasTaken, PeppyMods, Glacier, and HDBoye. I DO NOT OWN ANY OF THESE, IF YOU WANT THEM TAKEN DOWN DM ME ON DISCORD flutter#3151
+Credit to Sniper_GamingWasTaken, Untitled Output, imakegoodsuf2, hatsunemiku101, Lemon-Demon-Monster, PeppyMods, Glacier, and HDBoye. I DO NOT OWN ANY OF THESE, IF YOU WANT THEM TAKEN DOWN DM ME ON DISCORD flutter#3151
 
 ### MOST POPULAR MODS
 
