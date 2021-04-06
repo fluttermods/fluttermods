@@ -4,27 +4,27 @@ Credit to Sniper_GamingWasTaken, PeppyMods, Glacier, and HDBoye. I DO NOT OWN AN
 
 ### MOST POPULAR MODS
 
-[Kade Engine](https://untitledoutput.itch.io/friday-night-funkin-kade-engine)
+[Kade Engine](https://untitledoutput.itch.io/friday-night-funkin-kade-engine) Credit to Untitled Output
 
-[V.S. Whitty](https://sniper-gamingwastaken.itch.io/friday-night-funkin-vs-whitty-full-week-optimized-kade-engine) 
+[V.S. Whitty](https://sniper-gamingwastaken.itch.io/friday-night-funkin-vs-whitty-full-week-optimized-kade-engine) Credit to Sniper-GamingWasTaken
 
-[V.S. Tricky](https://elpeppywall.github.io/Mods/Tricky) 
+[V.S. Tricky](https://elpeppywall.github.io/Mods/Tricky) Credit to Peppy
 
-[B-Sides Remixes](https://sniper-gamingwastaken.itch.io/friday-night-funkin-b-sides-optimized-kade-engine-ver)
+[B-Sides Remixes](https://sniper-gamingwastaken.itch.io/friday-night-funkin-b-sides-optimized-kade-engine-ver) Credit to Sniper-GamingWasTaken
 
-[Mid-Fight Masses](https://elpeppywall.github.io/Mods/Sarvente) 
+[Mid-Fight Masses](https://elpeppywall.github.io/Mods/Sarvente) Credit to Peppy
 
-[V.S. Hex](https://hdboye.github.io/FnfModAttempt/hex) Affects Fresh and Dad Battle
+[V.S. Hex](https://hdboye.github.io/FnfModAttempt/hex) Credit to HDBoye
 
-[Minus Mod](https://hdboye.github.io/FnfModAttempt/minus) A skin to make the characters look more like their icons
+[Minus Mod](https://hdboye.github.io/FnfModAttempt/minus) Credit to HDBoye
 
-[The X Event Demo](https://lemon-demon-monster.itch.io/the-x-event-demo)
+[The X Event Demo](https://lemon-demon-monster.itch.io/the-x-event-demo) Credit to Lemon-Demon-Monster
 
-[Everywhere at the end of Funk](https://hdboye.github.io/FnfModAttempt2/end)
+[Everywhere at the end of Funk](https://hdboye.github.io/FnfModAttempt2/end) Credit to HDBoye
 
-[BBPanzu's Hatsune Miku](https://hdboye.github.io/FnfModAttempt2/bbmiku)
+[BBPanzu's Hatsune Miku](https://hdboye.github.io/FnfModAttempt2/bbmiku) Credit to HDBoye
 
-[Friday Night Funkin but bad](https://hdboye.github.io/FnfModAttempt2/bad)
+[Friday Night Funkin but bad](https://hdboye.github.io/FnfModAttempt2/bad) Credit to HDBoye
 
 ### MODS
 
