@@ -110,6 +110,8 @@ oh yeah XENTIDOE taught me how to make a mod menu, so credits to him
 
 [Fun Sized Whitty](https://peppymods.itch.io/whitty-ballistic-fun-sized) Credit to Peppy
 
+[X Chara](https://elpeppywall.github.io/Mods/Xchara/) Credit to Peppy (replaces spookeez)
+
 ## ORIGINAL MOD LINKS
 
 [HATSUNE MIKU](https://gamebanana.com/gamefiles/17106)
