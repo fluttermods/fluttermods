@@ -2,6 +2,8 @@
 
 Credit to Sniper_GamingWasTaken, Untitled Output, imakegoodsuf2, hatsunemiku101, Lemon-Demon-Monster, PeppyMods, Glacier, and HDBoye. I DO NOT OWN ANY OF THESE, IF YOU WANT THEM TAKEN DOWN DM ME ON DISCORD flutter#3151
 
+oh yeah XENTIDOE taught me how to make a mod menu, so credits to him
+
 ### MOST POPULAR MODS
 
 [Kade Engine](https://untitledoutput.itch.io/friday-night-funkin-kade-engine) Credit to Untitled Output
