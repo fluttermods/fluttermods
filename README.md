@@ -2,27 +2,45 @@
 
 Credit to Sniper_GamingWasTaken, PeppyMods, Glacier, and HDBoye. I DO NOT OWN ANY OF THESE, IF YOU WANT THEM TAKEN DOWN DM ME ON DISCORD flutter#3151
 
+### MOST POPULAR MODS
+
+[Kade Engine](https://untitledoutput.itch.io/friday-night-funkin-kade-engine)
+
 [V.S. Whitty](https://sniper-gamingwastaken.itch.io/friday-night-funkin-vs-whitty-full-week-optimized-kade-engine) 
 
 [V.S. Tricky](https://elpeppywall.github.io/Mods/Tricky) 
 
 [B-Sides Remixes](https://sniper-gamingwastaken.itch.io/friday-night-funkin-b-sides-optimized-kade-engine-ver)
 
+[Mid-Fight Masses](https://elpeppywall.github.io/Mods/Sarvente) 
+
+[V.S. Hex](https://hdboye.github.io/FnfModAttempt/hex) Affects Fresh and Dad Battle
+
+[Minus Mod](https://hdboye.github.io/FnfModAttempt/minus) A skin to make the characters look more like their icons
+
+[The X Event Demo](https://lemon-demon-monster.itch.io/the-x-event-demo)
+
+[Everywhere at the end of Funk](https://hdboye.github.io/FnfModAttempt2/end)
+
+[BBPanzu's Hatsune Miku](https://hdboye.github.io/FnfModAttempt2/bbmiku)
+
+[Friday Night Funkin but bad](https://hdboye.github.io/FnfModAttempt2/bad)
+
+### MODS
+
 [Neo Mod](https://sniper-gamingwastaken.itch.io/friday-night-funkin-neo-optimized-ke) 
 
-[Mid-Fight Masses](https://elpeppywall.github.io/Mods/Sarvente) 
+[Carol Mod](https://hdboye.github.io/FnfModAttempt/carol) Replaces Week 3
+
+[Zardy FoolHardy](https://sniper-gamingwastaken.itch.io/friday-night-funkin-vs-zardy-full-week-optimized-kade-engine)
 
 [Hatsune Miku](https://sniper-gamingwastaken.itch.io/friday-night-funkin-miku-mod-kade) Replaces Week 1
 
 [HELLBEATS](https://hdboye.github.io/FnfModAttempt/hellbeats) Affects all songs
 
-[V.S. Hex](https://hdboye.github.io/FnfModAttempt/hex) Affects Fresh and Dad Battle
-
 [Among Drip](https://hdboye.github.io/FnfModAttempt/drip) Affects Fresh
 
 [Undertale Modpack](https://hdboye.github.io/FnfModAttempt/undertale) Is just a skin for Week 6
-
-[Minus Mod](https://hdboye.github.io/FnfModAttempt/minus) A skin to make the characters look more like their icons
 
 [B3 Remixes](https://hdboye.github.io/FnfModAttempt/bthree) Remixes Week 1, South, Blammed, Week 4, Week 5, and Week 6.
 
@@ -31,10 +49,6 @@ Credit to Sniper_GamingWasTaken, PeppyMods, Glacier, and HDBoye. I DO NOT OWN AN
 [GF and BF switch](https://hdboye.github.io/FnfModAttempt/switch) A skin
 
 [Isabelle Mod](https://hdboye.github.io/FnfModAttempt/isabelle) A skin
-
-[Carol Mod](https://hdboye.github.io/FnfModAttempt/carol) Replaces Week 3
-
-[Zardy FoolHardy](https://sniper-gamingwastaken.itch.io/friday-night-funkin-vs-zardy-full-week-optimized-kade-engine)
 
 [C-Sides](https://hdboye.github.io/FnfModAttempt/cside) Week 4 is remixed
 
@@ -84,15 +98,7 @@ Credit to Sniper_GamingWasTaken, PeppyMods, Glacier, and HDBoye. I DO NOT OWN AN
 
 [The disappearance of Hatsune Miku](https://hatsunemiku101.itch.io/the-disappearance-of-hatsune-miku)
 
-[The X Event Demo](https://lemon-demon-monster.itch.io/the-x-event-demo)
-
-[Everywhere at the end of Funk](https://hdboye.github.io/FnfModAttempt2/end)
-
-[BBPanzu's Hatsune Miku](https://hdboye.github.io/FnfModAttempt2/bbmiku)
-
 [Sunday](https://hdboye.github.io/FnfModAttempt2/sunday)
-
-[Friday Night Funkin but bad](https://hdboye.github.io/FnfModAttempt2/bad)
 
 [V.S. JTC](https://peppymods.itch.io/vs-jtc/download/DnXpsc2HncMqapf7j_jpwxvP5yzhBXFLOAr6FE26)
 
