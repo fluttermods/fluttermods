@@ -108,9 +108,11 @@ oh yeah XENTIDOE taught me how to make a mod menu, so credits to him
 
 [HoloNight Funkin](https://glacierr.itch.io/holonight) Credit to Glacier and Peppy
 
-[Fun Sized Whitty](https://peppymods.itch.io/whitty-ballistic-fun-sized) Credit to Peppy
+[Ballistic Fun Sized Whitty](https://peppymods.itch.io/whitty-ballistic-fun-sized) Credit to Peppy
 
 [X Chara](https://elpeppywall.github.io/Mods/Xchara/) Credit to Peppy (replaces spookeez)
+
+[Fun Sized Whitty](https://peppymods.itch.io/fun-sized-whitty?secret=kKq7DWa9gveAbf2f1zv5flRiHY)
 
 ## ORIGINAL MOD LINKS
 
