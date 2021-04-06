@@ -6,6 +6,8 @@ oh yeah XENTIDOE taught me how to make a mod menu, so credits to him
 
 ### MOST POPULAR MODS
 
+
+
 [Kade Engine](https://untitledoutput.itch.io/friday-night-funkin-kade-engine) Credit to Untitled Output
 
 [V.S. Whitty](https://sniper-gamingwastaken.itch.io/friday-night-funkin-vs-whitty-full-week-optimized-kade-engine) Credit to Sniper-GamingWasTaken
@@ -29,6 +31,8 @@ oh yeah XENTIDOE taught me how to make a mod menu, so credits to him
 [Friday Night Funkin but bad](https://hdboye.github.io/FnfModAttempt2/bad) Credit to HDBoye
 
 ### REMIX MODS
+
+
 
 [Neo Mod](https://peppymods.itch.io/neo?secret=TNWwnRNyKy9ofksuJ9tFQ0ZMn1I) Credit to Peppy 
 
@@ -92,7 +96,10 @@ oh yeah XENTIDOE taught me how to make a mod menu, so credits to him
 
 [Your New Boyfriend](https://glacierr.itch.io/simpbur) Credit to Glacier
 
+
 ### SKINS
+
+
 
 [GF and BF switch](https://hdboye.github.io/FnfModAttempt/switch) Credit to HDBoye
 
@@ -123,6 +130,8 @@ oh yeah XENTIDOE taught me how to make a mod menu, so credits to him
 
 ### DIFFICULT MODS
 
+
+
 [HELLBEATS](https://hdboye.github.io/FnfModAttempt/hellbeats) Credit to HDBoye
 
 [V.S. Whitty](https://sniper-gamingwastaken.itch.io/friday-night-funkin-vs-whitty-full-week-optimized-kade-engine) Credit to Sniper-GamingWasTaken
@@ -131,6 +140,8 @@ oh yeah XENTIDOE taught me how to make a mod menu, so credits to him
 
 
 ## ORIGINAL MOD LINKS
+
+
 
 [HATSUNE MIKU](https://gamebanana.com/gamefiles/17106)
 
