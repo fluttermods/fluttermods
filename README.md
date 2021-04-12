@@ -103,6 +103,8 @@ oh yeah XENTIDOE taught me how to make a mod menu, so credits to him
 
 [Sky Mod](https://peppymods.itch.io/vs-sky)
 
+[Advent Neon](https://kbhgames.com/game/friday-night-funkin-vs-advent-neon)
+
 ### SKINS
 ---------
 
