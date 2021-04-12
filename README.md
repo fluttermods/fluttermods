@@ -99,6 +99,9 @@ oh yeah XENTIDOE taught me how to make a mod menu, so credits to him
 
 [Your New Boyfriend](https://glacierr.itch.io/simpbur) Credit to Glacier
 
+[AMOGUS](https://yellow-is-stupid.itch.io/friday-night-funkin-amogus-over-week-1-kade-engine)
+
+[Sky Mod](https://peppymods.itch.io/vs-sky)
 
 ### SKINS
 ---------
