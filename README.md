@@ -32,6 +32,8 @@ oh yeah XENTIDOE taught me how to make a mod menu, so credits to him
 
 [V.S. Matt](https://kbhgames.com/game/friday-night-funkin-vs-matt-from-wii-sports)
 
+[Week 7](https://fnf.kdata1.com/fnf-v291/) Up for a limited time until Newgrounds is back up!
+
 ### REMIX MODS
 
 
